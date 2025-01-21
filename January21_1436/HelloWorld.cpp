@@ -2,7 +2,7 @@
 using std::cout; //standard
 int main()
 {
-	cout << "Hello, world."//a semicolon is analogous to a PERIOD in English
+	cout << "HELLO, WORLD!"//a semicolon is analogous to a PERIOD in English
 	//It "ends" the sentence/instruction
 	//
 	// What is this green stuff I am typing?
